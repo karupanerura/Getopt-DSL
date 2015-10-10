@@ -1,0 +1,6 @@
+name = "Getopt-DSL"
+# badges = ["travis"]
+authority="cpan:KARUPA"
+
+module_maker="ModuleBuildTiny"
+
